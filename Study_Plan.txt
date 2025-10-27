@@ -1,0 +1,24 @@
+#Study Plan and Certification Roadmap (IT_Fundamentals Repository)
+## PHASE 0: FOUNDATION BUILDING (Oct 27-Oct 31)
+*Goal: Utilize free resources to prepare for paid AI courses and build portfolio basics.*
+
+- [X] Create GitHub repository named 'IT_Fundamentals'. (Completed Oct 27)
+- [X] Watch a refresher YouTube video on GitHub - it's been a while. (Completed Oct 27)
+- [ ] Watch 2 Professor Messer videos on the OSI Model (Tuesday Goal: Oct 28)
+- [ ] Complete "Hello, World!" Python script and commit to this repo (Wednesday Goal: Oct 29).
+- [ ] Document the CompTIA troubleshooting Methodology (Thursday Goal: Oct 30).
+- [ ] Finalize payment for CompTIA AI Certification 1 (Friday Goal: Oct 31).
+
+## PHASE 1: COMPTIA AI CERTIFICATIONS (Nov 3 - Nov 14)
+*Goal: Obtain two rapid, marketable credentials to boost confidence and resume.*
+
+- [ ] Complete CompTIA AI Essentials course and assessment.
+- [ ] Complete CompTIA Prompt Engineering course and assessment.
+- [ ] Update resume and LinkedIn with both new certifications.
+
+## PHASE 2: NETWORK+ PREPARATION (Nov 17 Onward)
+*Goal: Begin 12-week structured study for CompTIA Network+ (N10-009).*
+
+- [ ] Purchase discounted Network+ practice exams (Dion/Meyers).
+- [ ] Begin structured study schedule (3-4 hours M-F).
+- [ ] Track all Network+ notes and subnetting practice in this repository.
