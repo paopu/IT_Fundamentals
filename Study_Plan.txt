@@ -5,6 +5,7 @@
 - [X] Create GitHub repository named 'IT_Fundamentals'. (Completed Oct 27)
 - [X] Watch a refresher YouTube video on GitHub - it's been a while. (Completed Oct 27)
 - [ ] Watch 2 Professor Messer videos on the OSI Model (Tuesday Goal: Oct 28)
+- [ ] Watch YouTube video on Git and GitHub (Tuesday Goal: Oct 28).
 - [ ] Complete "Hello, World!" Python script and commit to this repo (Wednesday Goal: Oct 29).
 - [ ] Document the CompTIA troubleshooting Methodology (Thursday Goal: Oct 30).
 - [ ] Finalize payment for CompTIA AI Certification 1 (Friday Goal: Oct 31).
