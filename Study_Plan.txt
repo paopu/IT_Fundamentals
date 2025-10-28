@@ -4,15 +4,15 @@
 
 - [X] Create GitHub repository named 'IT_Fundamentals'. (Completed Oct 27)
 - [X] Watch a refresher YouTube video on GitHub - it's been a while. (Completed Oct 27)
-- [ ] Watch 2 Professor Messer videos on the OSI Model (Tuesday Goal: Oct 28)
+- [X] Watch 2 Professor Messer videos on the OSI Model (Tuesday Goal: Oct 28)
 - [ ] Complete "Hello, World!" Python script and commit to this repo (Wednesday Goal: Oct 29).
 - [ ] Document the CompTIA troubleshooting Methodology (Thursday Goal: Oct 30).
-- [ ] Finalize payment for CompTIA AI Certification 1 (Friday Goal: Oct 31).
+- [X] Finalize payment for CompTIA AI Certification 1 (Friday Goal: Oct 31 || Was able to purchase on Oct 28).
 
-## PHASE 1: COMPTIA AI CERTIFICATIONS (Oct 27 - Nov 24)
+## PHASE 1: COMPTIA AI CERTIFICATIONS (Oct 29 - Nov 24)
 *Goal: Obtain two rapid, marketable credentials to boost confidence and resume.*
 
-- [ ] Complete CompTIA AI Essentials course and assessment.
+- [ ] Complete CompTIA AI Essentials course and assessment (Complete by Nov 3rd).
 - [ ] Complete CompTIA Prompt Engineering course and assessment.
 - [ ] Update resume and LinkedIn with both new certifications.
 
