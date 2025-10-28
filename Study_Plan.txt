@@ -12,7 +12,7 @@
 ## PHASE 1: COMPTIA AI CERTIFICATIONS (Oct 29 - Nov 24)
 *Goal: Obtain two rapid, marketable credentials to boost confidence and resume.*
 
-- [ ] Complete CompTIA AI Essentials course and assessment (Complete by Nov 3rd).
+- [ ] Complete CompTIA AI Essentials course and assessment (Complete by Nov 4th).
 - [ ] Complete CompTIA Prompt Engineering course and assessment.
 - [ ] Update resume and LinkedIn with both new certifications.
 
