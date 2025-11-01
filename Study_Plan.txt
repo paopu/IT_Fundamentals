@@ -7,6 +7,7 @@
 - [X] Watch 2 Professor Messer videos on the OSI Model (Tuesday Goal: Oct 28)
 - [ ] Complete "Hello, World!" Python script and commit to this repo (Wednesday Goal: Nov 5).
 - [ ] Document the CompTIA troubleshooting Methodology (Thursday Goal: Nov 6).
+- [ ] Firewall & basic networking (TCP/IP, DNS, DHCP, VPN, VLAN) (Thursday Goal: Nov 6)
 - [ ] Practice Basic SQL & DBA (Friday Goal: Nov 7)
 - [X] Finalize payment for CompTIA AI Certification 1 (Friday Goal: Oct 31 || Was able to purchase on Oct 28).
 
